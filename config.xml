@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" ?>
+<theme>
+    <name>EAD_Carm</name>
+    <version>2.0</version>
+    <compatibility>2.2</compatibility>
+    <author>CARM</author>
+    <author-url>http://www.exelearning.net</author-url>	
+    <description>obra derivada del estilo realizado por José Ramón Jiménez Reyes para el proyecto TodoFP del Ministerio de Educación en el que se elaboraban materiales de Ciclos Formativos de Formación Profesional.</description>
+    <license>Creative Commons by-sa</license>
+    <license-url>http://creativecommons.org/licenses/by-sa/3.0/</license-url>
+    <extra-head><![CDATA[<meta name="viewport" content="width=device-width, initial-scale=1" />
+    ]]></extra-head>
+    <extra-body><![CDATA[<script type="text/javascript" src="_style_js.js"></script>]]></extra-body>
+	<extra-head><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>]]></extra-head>
+	<extra-head><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/atom-one-dark.min.css" />]]></extra-head>
+    <edition-extra-head><![CDATA[<script type="text/javascript">if (typeof(exe_style)!='undefined' && exe_style.indexOf("content.css")!=-1) document.write('<scr'+'ipt type="text/javascript" src="'+exe_style.replace("content.css","_style_js.js")+'"></scr'+'ipt>')</script>]]></edition-extra-head>
+</theme>
